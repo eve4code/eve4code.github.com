@@ -69,7 +69,6 @@ body, ul {
     height: 1000px;
 }
 
-
-.top-sections *{
-  color: #3A5311;
+.top-sections{
+  font-size: 20px;
 }
